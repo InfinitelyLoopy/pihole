@@ -1,0 +1,7 @@
+stats.appsflyer.com
+reports.crashlytics.com
+mads.amazon-adsystem.com
+app-measurement.com
+www.googletagmanager.com
+s.amazon-adsystem.com
+doubleclick.net
